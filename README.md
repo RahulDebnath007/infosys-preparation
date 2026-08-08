@@ -1450,7 +1450,7 @@ Khaled has an array $A$ of $N$ elements, where $N$ is guaranteed to be an **even
 * `if dp[v] <= max_limit and v > max_xor: max_xor = v` — Updates `max_xor` if `v` satisfies size constraint and is greater.
 * `return max_xor` — Returns the maximum XOR sum achieved.
 
-# Problem Name: Maximum XOR-Sum Under Range Constraint
+# 6 Problem Name: Maximum XOR-Sum Under Range Constraint
 
 ---
 
